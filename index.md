@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages gg
+# Thomas Chilson's First CS193 Homework
+- I love that CS193 is student lead
+- This class is very applicable in other classes
+## Welcome to GitHub Pages 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,7 +24,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text hllo
+**Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
 ```
